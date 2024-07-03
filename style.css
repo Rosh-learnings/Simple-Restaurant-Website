@@ -1,0 +1,143 @@
+.title{
+    text-align: center;
+    background-color:#49111c;  
+    color: #a9927d;
+    padding: 20px;
+    border-radius: 15px;
+}
+.Main{
+    font-size: 50px;
+    font-family: "Playwrite AU NSW", cursive;
+}
+.Main{
+    font-size: 50px;
+}
+.Main-1__home{
+    padding: 20px;
+    font-size: 25px;
+    color:#a9927d;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    
+   
+}
+.Main-1__receipe{
+    margin: 20px;
+    font-size: 25px;
+    color:#a9927d;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.Main-1__contact{
+    padding: 20px;
+    font-size : 25px;
+    color: #a9927d;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.Main{
+    padding-right: 50px;
+    
+}
+.Main-1{
+    padding-right: 10px;
+}
+.inside{
+    display: inline;
+    font-size: 30px;
+}
+.image-1{
+    width: 200px;
+    height: 200px;
+}
+.image{
+    background-color:#5e503f;
+    text-align: center;
+    border: solid #49111c 3px;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.Desc-1{
+    color: #f2f4f3;
+    font-family: "Alata", sans-serif;
+    font-size: 25px;
+    padding-left:20px;
+    padding-right:20px;
+    
+}
+.button{
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: "Alata", sans-serif;
+}
+.image-2__main{
+    width: 200px;
+    height: 200px;
+}
+.image-2{
+    background-color: #5e503f;
+    text-align: center;
+    border: solid black 3px;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.image-3{
+    background-color: #5e503f;
+    text-align: center;
+    border: solid black 3px;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.image-3__main{
+    width: 200px;
+    height: 200px;
+}
+.image-4__main{
+    width: 200px;
+    height: 200px;
+}
+.image-4{
+    background-color: #5e503f;
+    text-align: center;
+    border: solid black 3px;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.one{
+    text-align: center;
+}
+.Contact{
+    background-color:#281e16;
+    color: #f2f4f3;
+    text-align: center;
+    border-radius: 10px;
+}
+.table{
+    text-align: center;
+    
+}
+.button-1{
+    text-align: center;
+    margin-left: 20px;
+    background-color:#a8763e;
+    text-decoration: none;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.Contact{
+    font-style: italic;
+    font-family: "Alata", sans-serif;
+
+}
